@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Linxu.blog</title>
-    <link>http://linxuh.github.io/docs/tags/</link>
+    <link>http://linxuh.github.io/tags/</link>
     <description>Recent content in Tags on Linxu.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 copyright text.</copyright>
     
-	<atom:link href="http://linxuh.github.io/docs/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://linxuh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
